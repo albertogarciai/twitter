@@ -32,8 +32,8 @@ pip install pandas matplotlib
 1. **Clone this repository** or download the files directly.
 
 ```bash
-git clone https://github.com/yourusername/motogp-tweet-sentiment.git
-cd motogp-tweet-sentiment
+git clone https://github.com/albertogarciai/twitter.git
+cd twitter
 ```
 
 2. **Open the Jupyter Notebook**:
@@ -64,10 +64,6 @@ jupyter notebook valoracion_tweets.ipynb
 - Integrate more advanced NLP models (e.g., transformers) for better sentiment classification.
 - Automate tweet collection using Twitter API.
 - Implement interactive dashboards.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙌 Acknowledgments
 
